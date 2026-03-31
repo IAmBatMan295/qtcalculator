@@ -1,4 +1,4 @@
-#include "calculator_ui.hpp"
+#include "ui/calculator_ui.hpp"
 #include <QApplication>
 
 int main(int argc, char **argv) {
